@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "995367d2cb16168d",
+        "id": "1ff136d7472f7e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "771ef96f096caedb",
+            "id": "ead5344aa5349452",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Visit Report.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Visit Report"
             }
           }
         ]
@@ -167,8 +171,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8aedae51ce0e0905",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -190,8 +205,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "771ef96f096caedb",
+  "active": "ead5344aa5349452",
   "lastOpenFiles": [
+    "hrLOR6egRq.png",
+    "Untitled.md",
+    "Visit Report.md",
     "Welcome.md"
   ]
 }
