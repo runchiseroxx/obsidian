@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5055cd3dc1f3a6e7",
+        "id": "995367d2cb16168d",
         "type": "tabs",
         "children": [
           {
-            "id": "1297e955354e400e",
+            "id": "771ef96f096caedb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,6 +157,16 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "c45b6d741bb9cdce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -167,16 +177,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1297e955354e400e",
+  "active": "771ef96f096caedb",
   "lastOpenFiles": [
     "Welcome.md"
   ]
