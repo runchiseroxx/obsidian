@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef44d8d350eeaba",
+        "id": "4b64f2e307639bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "6da9a47ebf6a8809",
+            "id": "44b9a5edd1ecc7dd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -202,8 +202,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6da9a47ebf6a8809",
+  "active": "43f771ac8411c10b",
   "lastOpenFiles": [
+    "Daily/2026-02-26.md",
+    "Templates",
+    "Daily",
     "Untitled.md",
     "Welcome.md",
     "Report/Visit Report.md",
