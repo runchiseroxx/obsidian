@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visit Report.md",
-                "mode": "source",
+                "file": "Report/Visit Report.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -207,9 +207,11 @@
   },
   "active": "ead5344aa5349452",
   "lastOpenFiles": [
-    "hrLOR6egRq.png",
-    "Untitled.md",
-    "Visit Report.md",
-    "Welcome.md"
+    "Report/logo.png",
+    "Report/Visit Report.md",
+    "Report/hrLOR6egRq.png",
+    "Welcome.md",
+    "Report",
+    "Untitled.md"
   ]
 }
