@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +201,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "197c5d06ca10e5a9",
+  "active": "43f771ac8411c10b",
   "lastOpenFiles": [
+    "Notion",
     "Daily/2026-02-26.md",
     "Report/Visit Report.md",
     "Daily/dailylogs_template.md",
@@ -237,7 +237,6 @@
     "Templates/10 - Entertainment/10.4 - Movies&Shows_V2.md",
     "Templates/10 - Entertainment/10.3 - Game.md",
     "Templates/10 - Entertainment/10.1 - Entertainment.md",
-    "Templates/10 - Entertainment/10.2 - Movies&ShowReview.md",
     "Templates/10 - Entertainment",
     "Templates/09 - Recipes",
     "Report/logo.png",
