@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b64f2e307639bc7",
+        "id": "8834afae79087d33",
         "type": "tabs",
         "children": [
           {
-            "id": "44b9a5edd1ecc7dd",
+            "id": "197c5d06ca10e5a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -202,16 +202,45 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "43f771ac8411c10b",
+  "active": "197c5d06ca10e5a9",
   "lastOpenFiles": [
     "Daily/2026-02-26.md",
-    "Templates",
-    "Daily",
-    "Untitled.md",
-    "Welcome.md",
     "Report/Visit Report.md",
+    "Daily/dailylogs_template.md",
+    "Templates/01 - Logs/1.5 - DailyLog_V2.md",
+    "Templates/01 - Logs/1.1 - Daily.md",
+    "Untitled.md",
+    "Templates/18 - Geographic/18.3 - Location.md",
+    "Templates/18 - Geographic/18.2 - City.md",
+    "Templates/18 - Geographic/18.1 - Country.md",
+    "Templates/18 - Geographic",
+    "Templates/17 - WordDictionary/17.1 - WordDictionary.md",
+    "Templates/17 - WordDictionary",
+    "Templates/16 - Investment/16.1 - Stocks.md",
+    "Templates/16 - Investment",
+    "Templates/15 - Company/15.3 - Department.md",
+    "Templates/15 - Company/15.2 - Company_V2.md",
+    "Templates/15 - Company/15.1 - Company.md",
+    "Templates/15 - Company",
+    "Templates/14 - Trackers/14.3 - DailyTracker.md",
+    "Templates/14 - Trackers/14.2 - HabitChallenge.md",
+    "Templates/14 - Trackers/14.1 - SlipBox.md",
+    "Templates/14 - Trackers",
+    "Templates/13 - Meeting/13.2 - DailyCheckIn.md",
+    "Templates/13 - Meeting/13.1 - Meeting.md",
+    "Templates/13 - Meeting",
+    "Templates/12 - Contact/12.2 - Contact_V2.md",
+    "Templates/12 - Contact/12.1 - Contact.md",
+    "Templates/12 - Contact",
+    "Templates/11 - Application/11.1 - Application.md",
+    "Templates/11 - Application",
+    "Templates/10 - Entertainment/10.4 - Movies&Shows_V2.md",
+    "Templates/10 - Entertainment/10.3 - Game.md",
+    "Templates/10 - Entertainment/10.1 - Entertainment.md",
+    "Templates/10 - Entertainment/10.2 - Movies&ShowReview.md",
+    "Templates/10 - Entertainment",
+    "Templates/09 - Recipes",
     "Report/logo.png",
-    "Report/hrLOR6egRq.png",
-    "Report"
+    "Report/hrLOR6egRq.png"
   ]
 }
