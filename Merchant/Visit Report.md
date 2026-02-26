@@ -1,5 +1,5 @@
  ![[logo.png]]
-# 🏪Se'Indonesia
+# 🏪Se'Indonesia Sukolilo
 ---
 ## 📅Meeting date : 
 👥**PIC :** 
@@ -13,23 +13,23 @@
 * Cek ulang hasil configurasi & printing saat ini sudah berjalan normal.
 * Printer bluetooth sudah di reset kembali hanya konek ke 1 device untuk cetak struk. Detail ada di topologi gambar dan seharusnya sudah tidak ada printing double lagi.
 
+
+* IP Printer : 192.168.1.38
+
 **Topologi saat ini :**
 
 ![[Seindonesia Sukolilo.png]]
 
 **Kasir 1 Pengaturan cetakan :**
+![[PXL_20260226_054917474.jpg]]
 
 
 **Kasir 2 Pengaturan cetakan :**
+![[PXL_20260226_062435910.jpg]]
 
 
 **Kasir Drivethru Pengaturan cetakan :**
-
- 
-
-
-
-
+![[PXL_20260226_055024818.jpg]]
 
 ---
 
