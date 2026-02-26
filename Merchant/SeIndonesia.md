@@ -17,10 +17,15 @@
 
 ![[Seindonesia Sukolilo.png]]
 
-**Kasir 1 Pengaturan cetakan:**
+**Kasir 1 Pengaturan cetakan :**
+
+
+**Kasir 2 Pengaturan cetakan :**
+
+
+**Kasir Drivethru Pengaturan cetakan :**
+
  
-
-
 
 
 
