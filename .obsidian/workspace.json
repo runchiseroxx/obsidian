@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merchant/Untitled.md",
+                "file": "Merchant/SeIndonesia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "SeIndonesia"
+            }
+          },
+          {
+            "id": "17ec97ee35b49837",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/seindonesia latest printer setup.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "seindonesia latest printer setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +219,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "197c5d06ca10e5a9",
+  "active": "17ec97ee35b49837",
   "lastOpenFiles": [
-    "Pasted image 20260226123243.png",
-    "Pasted image 20260226123213.png",
     "Merchant/SeIndonesia.md",
+    "Excalidraw/seindonesia latest printer setup.md",
+    "Excalidraw",
     "Report/Visit Report.md",
     "Merchant/Untitled.md",
+    "Pasted image 20260226123243.png",
+    "Pasted image 20260226123213.png",
     "Merchant",
     "Notion",
     "Daily/2026-02-26.md",
@@ -243,7 +258,6 @@
     "Templates/12 - Contact/12.1 - Contact.md",
     "Templates/12 - Contact",
     "Templates/11 - Application/11.1 - Application.md",
-    "Templates/11 - Application",
     "Templates/10 - Entertainment/10.4 - Movies&Shows_V2.md",
     "Report/logo.png",
     "Report/hrLOR6egRq.png"
