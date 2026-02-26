@@ -1,0 +1,2 @@
+-Online ordering 5% bisa tidak di input di bill as biaya layanan (mirip qr dine in)
+-QR code dine in request yg standing 1 aja yg besar untuk d depan
