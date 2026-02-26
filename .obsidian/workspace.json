@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merchant/SeIndonesia.md",
+                "file": "Merchant/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SeIndonesia"
+              "title": "Untitled"
             }
           }
         ]
@@ -206,10 +206,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "43f771ac8411c10b",
+  "active": "197c5d06ca10e5a9",
   "lastOpenFiles": [
-    "Report/Visit Report.md",
     "Merchant/SeIndonesia.md",
+    "Report/Visit Report.md",
     "Merchant/Untitled.md",
     "Merchant",
     "Notion",
