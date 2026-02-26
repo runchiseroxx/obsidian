@@ -7,9 +7,11 @@
 ---
 
 ### 🗒️Notes :
-* Cek ulang konfigurasi printer dan di reconfig ulang serta replace printer platting dengan printer LAN ( agar printing docket lebih solid)
+* Indikasi awal , printing sering double dan sering tidak bisa print di beberapa printer termasuk juga delay printing.
+* Cek ulang konfigurasi printer dan di reconfig ulang serta replace printer platting dengan printer LAN ( agar printing docket lebih solid).
 * Setup Printer LAN baru saat ini ditempatkan di platting dengan hanya Kasir 1 & 2 saja yang connect, drive thru hanya memakai 1 printer bluetooth.
 * Cek ulang hasil configurasi & printing saat ini sudah berjalan normal
+* Printer bluetooth sudah di reset kembali hanya konek ke 1 device untuk cetak struk. Detail ada di topologi gambar dan seharusnya sudah tidak ada printing double lagi
 
 ---
 

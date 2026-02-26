@@ -25,12 +25,14 @@
             "id": "17ec97ee35b49837",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/seindonesia latest printer setup.md"
+                "file": "Merchant/SeIndonesia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "seindonesia latest printer setup"
+              "icon": "lucide-file",
+              "title": "SeIndonesia"
             }
           }
         ],
@@ -221,8 +223,8 @@
   },
   "active": "17ec97ee35b49837",
   "lastOpenFiles": [
-    "Merchant/SeIndonesia.md",
     "Excalidraw/seindonesia latest printer setup.md",
+    "Merchant/SeIndonesia.md",
     "Excalidraw",
     "Report/Visit Report.md",
     "Merchant/Untitled.md",
