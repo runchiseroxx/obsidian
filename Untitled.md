@@ -8,6 +8,8 @@
 
 ### 🗒️Notes :
 * This is notes
+* Retraining terkait pesanan keluar dan SCM
+* 
 
 ---
 
