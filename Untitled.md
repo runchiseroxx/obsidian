@@ -9,7 +9,7 @@
 ### 🗒️Notes :
 * This is notes
 * Retraining terkait pesanan keluar dan SCM
-* 
+* Fakta Nutrisi bisa diexport gak
 
 ---
 
