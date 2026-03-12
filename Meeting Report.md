@@ -1,7 +1,7 @@
  ![[logo.png]]
 # 🏪Rembulan
 ---
-## 📅Meeting date : 
+## 📅Meeting date : Kamis, 12-03-2026
 👥**PIC :** 
 * Pak Agus
 * Mba Dewi
