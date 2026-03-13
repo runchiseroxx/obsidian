@@ -19,6 +19,8 @@ tanggal 9 balado daging 3 68000 biaya
 
 ### 📋Feedbacks :
 * This is Feedback
+* Sedia ada laporan berisi hargta jual & harga hpp terkini agar untuk retail bisa adjust harga jual secara cepat berdasarkan hpp terakhir
+* 
 ---
 
 
