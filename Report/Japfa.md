@@ -21,9 +21,9 @@ tanggal 9 balado daging 3 68000 biaya
 * This is Feedback
 * 
 * Sedia ada laporan berisi harga jual & harga hpp terkini agar untuk retail bisa adjust harga jual secara cepat berdasarkan hpp terakhir
+* 50 Meja ( depannya Meja 01, Meja 02 )
+**
 
-
-2874
 ---
 
 
