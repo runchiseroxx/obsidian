@@ -11,6 +11,10 @@
 * Detail email tablet :
 	* email : warkopcentralpos@gmail.com
 	* pass : Surabaya123
+* Runchise
+	* email : warkopcentralpos@gmail.com
+	* pass :  Surabaya123
+	* PIN : 1234
 
 ---
 
